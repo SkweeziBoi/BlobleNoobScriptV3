@@ -7,7 +7,7 @@ Over the past few weeks, I have been learning how to write scripts for games. An
 
 ## Usage
 
-1. Download resource override (chrome extension)
+1. Download [resource override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii)
 2. Click on the extension icon
 3. Add a URL->File rule
 4. Click edit file
