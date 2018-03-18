@@ -12,4 +12,5 @@ Over the past few weeks, I have been learning how to write scripts for games. An
 3. Add a URL->File rule
 4. Click edit file
 5. Paste script from scripts/game.js
-6. Play bloble.io
+6. Set "from" to `http://bloble.io/js/game.js`
+7. Play bloble.io
