@@ -29,4 +29,8 @@ Over the past few weeks, I have been learning how to write scripts for games. An
 
 ![example3](https://user-images.githubusercontent.com/13282284/37569525-050cf3b8-2aba-11e8-8e03-0f982d63ceed.png)
 
+#### Make sure to set this!
+
+![example4](https://user-images.githubusercontent.com/13282284/37569709-a185a35a-2abc-11e8-86d3-904b49ada7c3.png)
+
 #### Play bloble.io
